@@ -15,7 +15,7 @@ This is a smart contract to help with Rent Management. The functionalities inclu
 
 # Explanation Video -
 
-
+https://youtu.be/7OQXfEnPLWw
 
 # Implementation Platform - 
 
